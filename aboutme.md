@@ -1,16 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
+I am passionate about creating solutions to complex problems. I completed my PhD conducting research in the field of Computational/Theoretical Physics. Now, I apply my skills and knowledge to solve business challenges by employing methods of Data Science like Advanced Analytics and Machine Learning.
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My strong background in mathematical modelling of quantum problems utilizing statistics and numerical methods gave me a solid foundation to excel in the field of data science. My strong computer skills: over 15 years of experience in scientific programming, experience with SQL and NoSQL databases, and expert knowledge of Linux systems enabled me to thrive in fast-paced environments and become proficient in cloud computing and data engineering.
