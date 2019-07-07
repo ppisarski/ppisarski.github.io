@@ -18,7 +18,7 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/u/"
   icon: "fa-github"
 
 kaggle:
