@@ -26,8 +26,8 @@ navbar-links:
   Home: "/"
   Data Science: "datascience"
   Data Engineering: "dataengineering"
-  Portfolio:
-    - Omdena AI challenge: "https://github.com/ppisarski/ai-challenge-trees"
+#  Portfolio:
+#    - Omdena AI challenge: "https://github.com/ppisarski/ai-challenge-trees"
   About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -75,7 +75,7 @@ social-network-links:
 #  facebook: ppisarski
   twitter: pawel_pisarski
   github: ppisarski
-  docker: ppisarski
+#  docker: ppisarski
 #  kaggle: ppisarski
 #  medium: pawel.pisarski
 #  tableau: pawel.pisarski
