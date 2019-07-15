@@ -23,7 +23,7 @@ description: Data Science, Machine Learning, Cloud Computing
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "/"
+  Blog: "/"
   Data Science: "datascience"
   Data Engineering: "dataengineering"
 #  Portfolio:
