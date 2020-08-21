@@ -24,8 +24,8 @@ description: Data Science, Machine Learning, Cloud Computing
 # List of links in the navigation bar
 navbar-links:
   Blog: "/"
-  Data Science: "datascience"
-  Data Engineering: "dataengineering"
+#  Data Science: "datascience"
+#  Data Engineering: "dataengineering"
 #  Portfolio:
 #    - Omdena AI challenge: "https://github.com/ppisarski/ai-challenge-trees"
   About Me: "aboutme"
